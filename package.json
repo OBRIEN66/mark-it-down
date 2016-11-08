@@ -1,0 +1,26 @@
+{
+  "name": "markdown-server",
+  "version": "0.1.0",
+  "description": "Serve files ",
+  "main": "main.js",
+  "dependencies": {
+    "abbrev": "^1.0.9",
+    "github-markdown-css": "^2.4.1",
+    "markdown": "^0.5.0",
+    "nopt": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "markdown",
+    "node",
+    "fs",
+    "Nick",
+    "O'Brien"
+  ],
+  "author": "Nicholas O'Brien",
+  "license": "MIT"
+}
